@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ozan\\Code\\Education\\C\\Uygulamalar\\Vize Final 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F64481D-B00C-4917-8D3B-79C540B9D3EC}|Vize Final\\Vize Final.csproj|c:\\users\\ozan\\code\\education\\c\\uygulamalar\\vize final 5\\vize final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F64481D-B00C-4917-8D3B-79C540B9D3EC}|Vize Final\\Vize Final.csproj|solutionrelative:vize final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Code\\Education\\C\\Uygulamalar\\Vize Final 5\\Vize Final\\Form1.cs",
+              "RelativeDocumentMoniker": "Vize Final\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Code\\Education\\C\\Uygulamalar\\Vize Final 5\\Vize Final\\Form1.cs [Design]",
+              "RelativeToolTip": "Vize Final\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T18:26:37.827Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

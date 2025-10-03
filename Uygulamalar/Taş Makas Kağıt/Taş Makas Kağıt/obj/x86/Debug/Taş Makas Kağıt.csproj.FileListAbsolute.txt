@@ -1,0 +1,17 @@
+C:\Users\U145\Desktop\ozan\Taş Makas Kağıt\Taş Makas Kağıt\bin\Debug\Taş Makas Kağıt.exe
+C:\Users\U145\Desktop\ozan\Taş Makas Kağıt\Taş Makas Kağıt\bin\Debug\Taş Makas Kağıt.pdb
+C:\Users\U145\Desktop\ozan\Taş Makas Kağıt\Taş Makas Kağıt\obj\x86\Debug\Taş_Makas_Kağıt.Form1.resources
+C:\Users\U145\Desktop\ozan\Taş Makas Kağıt\Taş Makas Kağıt\obj\x86\Debug\Taş_Makas_Kağıt.Properties.Resources.resources
+C:\Users\U145\Desktop\ozan\Taş Makas Kağıt\Taş Makas Kağıt\obj\x86\Debug\Taş Makas Kağıt.csproj.GenerateResource.Cache
+C:\Users\U145\Desktop\ozan\Taş Makas Kağıt\Taş Makas Kağıt\obj\x86\Debug\Taş Makas Kağıt.exe
+C:\Users\U145\Desktop\ozan\Taş Makas Kağıt\Taş Makas Kağıt\obj\x86\Debug\Taş Makas Kağıt.pdb
+C:\Users\Ozan\Code\Education\C\Uygulamalar\Taş Makas Kağıt\Taş Makas Kağıt\bin\Debug\Taş Makas Kağıt.exe.config
+C:\Users\Ozan\Code\Education\C\Uygulamalar\Taş Makas Kağıt\Taş Makas Kağıt\bin\Debug\Taş Makas Kağıt.exe
+C:\Users\Ozan\Code\Education\C\Uygulamalar\Taş Makas Kağıt\Taş Makas Kağıt\bin\Debug\Taş Makas Kağıt.pdb
+C:\Users\Ozan\Code\Education\C\Uygulamalar\Taş Makas Kağıt\Taş Makas Kağıt\obj\x86\Debug\Taş Makas Kağıt.csproj.AssemblyReference.cache
+C:\Users\Ozan\Code\Education\C\Uygulamalar\Taş Makas Kağıt\Taş Makas Kağıt\obj\x86\Debug\Taş_Makas_Kağıt.Form1.resources
+C:\Users\Ozan\Code\Education\C\Uygulamalar\Taş Makas Kağıt\Taş Makas Kağıt\obj\x86\Debug\Taş_Makas_Kağıt.Properties.Resources.resources
+C:\Users\Ozan\Code\Education\C\Uygulamalar\Taş Makas Kağıt\Taş Makas Kağıt\obj\x86\Debug\Taş Makas Kağıt.csproj.GenerateResource.cache
+C:\Users\Ozan\Code\Education\C\Uygulamalar\Taş Makas Kağıt\Taş Makas Kağıt\obj\x86\Debug\Taş Makas Kağıt.csproj.CoreCompileInputs.cache
+C:\Users\Ozan\Code\Education\C\Uygulamalar\Taş Makas Kağıt\Taş Makas Kağıt\obj\x86\Debug\Taş Makas Kağıt.exe
+C:\Users\Ozan\Code\Education\C\Uygulamalar\Taş Makas Kağıt\Taş Makas Kağıt\obj\x86\Debug\Taş Makas Kağıt.pdb

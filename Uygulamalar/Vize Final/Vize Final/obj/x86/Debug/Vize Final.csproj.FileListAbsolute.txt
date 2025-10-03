@@ -1,0 +1,19 @@
+C:\Users\U145\Desktop\ozan\Vize Final\Vize Final\bin\Debug\Vize Final.exe
+C:\Users\U145\Desktop\ozan\Vize Final\Vize Final\bin\Debug\Vize Final.pdb
+C:\Users\U145\Desktop\ozan\Vize Final\Vize Final\obj\x86\Debug\Vize_Final.Properties.Resources.resources
+C:\Users\U145\Desktop\ozan\Vize Final\Vize Final\obj\x86\Debug\Vize Final.csproj.GenerateResource.Cache
+C:\Users\U145\Desktop\ozan\Vize Final\Vize Final\obj\x86\Debug\Vize Final.exe
+C:\Users\U145\Desktop\ozan\Vize Final\Vize Final\obj\x86\Debug\Vize Final.pdb
+C:\Users\U145\Desktop\ozan\Vize Final\Vize Final\obj\x86\Debug\Vize_Final.Form1.resources
+D:\Desktop\Dersler\Vize Final\Vize Final\obj\x86\Debug\Vize Final.exe
+D:\Desktop\Dersler\Vize Final\Vize Final\obj\x86\Debug\Vize Final.pdb
+C:\Users\Ozan\Code\Education\C\Uygulamalar\Vize Final 5\Vize Final\bin\Debug\Vize Final.exe.config
+C:\Users\Ozan\Code\Education\C\Uygulamalar\Vize Final 5\Vize Final\bin\Debug\Vize Final.exe
+C:\Users\Ozan\Code\Education\C\Uygulamalar\Vize Final 5\Vize Final\bin\Debug\Vize Final.pdb
+C:\Users\Ozan\Code\Education\C\Uygulamalar\Vize Final 5\Vize Final\obj\x86\Debug\Vize Final.csproj.AssemblyReference.cache
+C:\Users\Ozan\Code\Education\C\Uygulamalar\Vize Final 5\Vize Final\obj\x86\Debug\Vize_Final.Form1.resources
+C:\Users\Ozan\Code\Education\C\Uygulamalar\Vize Final 5\Vize Final\obj\x86\Debug\Vize_Final.Properties.Resources.resources
+C:\Users\Ozan\Code\Education\C\Uygulamalar\Vize Final 5\Vize Final\obj\x86\Debug\Vize Final.csproj.GenerateResource.cache
+C:\Users\Ozan\Code\Education\C\Uygulamalar\Vize Final 5\Vize Final\obj\x86\Debug\Vize Final.csproj.CoreCompileInputs.cache
+C:\Users\Ozan\Code\Education\C\Uygulamalar\Vize Final 5\Vize Final\obj\x86\Debug\Vize Final.exe
+C:\Users\Ozan\Code\Education\C\Uygulamalar\Vize Final 5\Vize Final\obj\x86\Debug\Vize Final.pdb
